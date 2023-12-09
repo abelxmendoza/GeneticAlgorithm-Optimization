@@ -17,6 +17,8 @@ The problem involves evaluating the fitness of individuals based on the given ob
 
 Genetic algorithms are optimization techniques inspired by the process of natural selection. They are widely used in various fields to find solutions to complex problems, especially in cases where traditional optimization methods may be impractical or less effective.
 
+![1702156570924](image/README/1702156570924.png)
+
 ## Class Information
 
 This script is part of the assignments for the CPSC 481-05 - Artificial Intelligence course at California State University Fullerton, taught by Professor Kenytt Avery during the Fall 2023 semester.
