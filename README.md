@@ -2,7 +2,8 @@
 
 This repository contains a Python script, "genetic_algorithm.py," that implements a genetic algorithm for optimizing a given objective function. The algorithm works with individuals encoded as concatenated pairs of values (x, y), represented by 16-bit fixed-point unsigned integers. The objective function to be maximized is given by:
 
-f(x,y)=(x+y)⋅sin⁡(5⋅(x2+y2))**f**(**x**,**y**)**=**(**x**+**y**)**⋅**sin**(**5**⋅**(**x**2**+**y**2**))
+#### **f(x, y) = (x + y) * sin(5 * (x^2 + y^2))**
+
 
 ## Problem Description
 
