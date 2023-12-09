@@ -80,13 +80,20 @@ cd GeneticAlgorithm-Optimization
 python3 genetic_algorithm.py
 ```
 
-
 ## Contributing
 
 If you have suggestions or improvements, feel free to open an issue or create a pull request. Contributions are welcome!
 
 ## Acknowledgment
 
-Special thanks to Professor Kenytt Avery for providing the class with engaging assignments that contribute to a deeper understanding of artificial intelligence concepts.
+I would like to express my sincere gratitude to Professor Kenytt Avery for teaching CPSC 481-05 - Artificial Intelligence at California State University Fullerton. This exercise has provided valuable insights into genetic algorithms and optimization in the field of artificial intelligence.
+
+Thank you, Professor Avery, for your guidance and support throughout this exercise.
+
+## Documentation
+
+[https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing](https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing)
 
 ---
+
+![1702155953553](image/README/1702155953553.png)
